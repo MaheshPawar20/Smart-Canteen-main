@@ -7,7 +7,7 @@ const addContainer = document.querySelector(".add-container");
 const removeContainer = document.querySelector(".remove-container");
 
 // Admin Side URL
-const adminSRC = "https://maheshpawar20.github.io/smart-canteen-site/admin-side.html";
+const adminSRC = "https://maheshpawar20.github.io/Smart-Canteen-main/admin-side.html";
 
 // --- Admin Side ---
 if (adminSRC === window.location.href) {
