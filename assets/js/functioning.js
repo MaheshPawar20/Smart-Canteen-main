@@ -1,12 +1,12 @@
   // --- Authentication Part ---
   // Your web app's Firebase configuration
   var firebaseConfig = {
-    apiKey: "AIzaSyCgg2ZLB3X61SialPHzko8q2u5G1Xc4O_8",
-    authDomain: "bye2doubts-asmr.firebaseapp.com",
-    projectId: "bye2doubts-asmr",
-    storageBucket: "bye2doubts-asmr.appspot.com",
-    messagingSenderId: "919115154257",
-    appId: "1:919115154257:web:8a47e1c6db5285d8884970",
+    apiKey: "AIzaSyCIuwKMcBLD1d33Q68mGZ-39Eq9eo1j_gE",
+    authDomain: "smart-canteen-cc78b.firebaseapp.com",
+    projectId: "smart-canteen-cc78b",
+    storageBucket: "smart-canteen-cc78b.appspot.com",
+    messagingSenderId: "142248267782",
+    appId: "1:142248267782:web:db4cebd58fb3d2e03fb387",
   };
   
   // Initialize Firebase
